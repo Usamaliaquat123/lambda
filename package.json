@@ -1,0 +1,23 @@
+{
+  "name": "awslambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Usamaliaquat123/lambda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Usamaliaquat123/lambda/issues"
+  },
+  "homepage": "https://github.com/Usamaliaquat123/lambda#readme",
+  "dependencies": {
+    "aws-sdk": "^2.421.0"
+  }
+}
