@@ -1,1 +1,1 @@
-# lambda
+# lambda for python
